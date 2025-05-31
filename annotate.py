@@ -48,7 +48,7 @@ def annotate(image_path, out_file, segment_background, device, get_viz):
 
             if get_viz:
                 plt.imshow(viz[:,:,::-1])
-                plt.savefig("viz.png")
+                plt.show()
         
         except:
             raise RuntimeError("Error finding patches")
