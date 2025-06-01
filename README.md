@@ -1,5 +1,5 @@
 # Color Chart Localization
-Official implementation of the code from [Robust Camera-Independent Color Chart Localization](https://www.sciencedirect.com/science/article/pii/S0167865525001138?via%3Dihub)
+Official implementation of the code from [Robust camera-independent color chart localization using YOLO](https://www.sciencedirect.com/science/article/pii/S0167865525001138?via%3Dihub)
 
 
 ## Installation
