@@ -1,5 +1,5 @@
-# 
-This repository contains the code for the paper "Robust Camera-Independent Color Chart Localization"
+# Color Chart Localization
+Official implementation of the code from [Robust Camera-Independent Color Chart Localization](https://www.sciencedirect.com/science/article/pii/S0167865525001138?via%3Dihub)
 
 
 ## Installation
